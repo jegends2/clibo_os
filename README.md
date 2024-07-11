@@ -1,6 +1,6 @@
 ## Robot Package Template
 
-++ rename clibot_os -> clibo_os
+++ rename clibot_os -> clibo_os (miss insert)
 
 This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
 
